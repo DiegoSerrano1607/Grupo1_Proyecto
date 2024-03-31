@@ -4,14 +4,21 @@
 
 #include "suma resta y division.cpp"
 #include "numeros par o impar.cpp"
-#include "conversión de kilometros.cpp"
+#include "conversion de kilometros.cpp"
 #include "palabra palindrom.cpp"
-#include "conversiones(1000).cpp"
+#include "conversiones (1000).cpp"
 #include "DecimALetras.cpp"
 #include "TablaM.cpp"
 #include "TablasMulti.cpp"
 #include "MultiplicacionManual.cpp"
 #include "Decimales_a_Binarios.cpp"
+#include "Decimal_Hexa.cpp"
+#include "FigurasGeometricas.cpp"
+#include "MoverUnPunto.cpp"
+#include "Cajero.cpp"
+#include "Hipotenusa.cpp"
+#include "MiniCalculadora.cpp"
+#include "ExamenVirtual.cpp"
 #include "Calculadora_Proteica.cpp"
 #include "Consulta_Precios.cpp"
 
@@ -84,27 +91,27 @@ int main(){
 			case 11:
 			opcion11();
 			break;
-			/*case 12:
+			case 12:
 			opcion12();
-			break;*/
+			break;
 			case 13:
 			opcion13();
 			break;
-			/*case 14:
+			case 14:
 			opcion14();
-			break;*/
-			/*case 15:
+			break;
+			case 15:
 			opcion15();
-			break;*/
+			break;
 			case 16:
 			opcion16();
 			break;
-			/*case 17:
+			case 17:
 			opcion17();
 			break;
 			case 18:
 			opcion18();
-			break;*/
+			break;
 			case 19:
 			opcion19();
 			break;
