@@ -1,5 +1,6 @@
 //----------- MENU DE OPCIONES -----------//
 //Trabajo realizado por Luis Ajim, Yessica Jimenez y Diego Serrano//
+//El trabajo arduo supera el talento///
 #include <iostream>
 
 #include "suma resta y division.cpp"
