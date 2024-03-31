@@ -13,7 +13,7 @@ string convertirNumeroALetra(int numero) {
     }
 }
 
-void opcion6() {
+  void opcion6() {
     int numero;
 
     cout << "Ingrese un numero del 0 al 9: ";

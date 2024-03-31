@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// Función para convertir de kilómetros a millas
+// Función para convertir de kilómetros a millas 
 double km_to_miles(double km) {
     return km * 0.621371;
 }
