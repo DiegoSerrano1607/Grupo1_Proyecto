@@ -8,7 +8,6 @@
 #include "conversion de kilometros.cpp"
 #include "palabra palindrom.cpp"
 #include "conversiones (1000).cpp"
-#include "DecimALetras.cpp"
 #include "conversiones de numeros a letras.cpp"
 #include "DecimALetras.cpp" 
 #include "TablaM.cpp"
