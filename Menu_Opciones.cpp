@@ -9,6 +9,8 @@
 #include "palabra palindrom.cpp"
 #include "conversiones (1000).cpp"
 #include "DecimALetras.cpp"
+#include "conversiones de numeros a letras.cpp"
+#include "DecimALetras.cpp" 
 #include "TablaM.cpp"
 #include "TablasMulti.cpp"
 #include "MultiplicacionManual.cpp"
@@ -43,10 +45,10 @@ int main(){
 		cout<<"10. Multiplicacion Manual"<<endl;
 		cout<<"11. Decimales a Binarios"<<endl;
 		cout<<"12. Decimal a Hexadecimal"<<endl;
-        	cout<<"13. Modelo de Figuras Geometricas"<<endl;
-        	cout<<"14. Mover Un Punto en pantalla"<<endl;
+        cout<<"13. Modelo de Figuras Geometricas"<<endl;
+        cout<<"14. Mover Un Punto en pantalla"<<endl;
 		cout<<"15. Simulacion de Cajero automatico"<<endl;
-        	cout<<"16. Calcular la Hipotenusa"<<endl;
+       	cout<<"16. Calcular la Hipotenusa"<<endl;
 		cout<<"17. Mini Calculadora"<<endl;
 		cout<<"18. Examen Virtual"<<endl;
 		cout<<"19. Calculadora Proteica"<<endl;
@@ -99,10 +101,17 @@ int main(){
 			opcion13();
 			break;
 			case 14:
+			break;*/
+			case 13:
+			opcion13();
+			break;*/
+			case 14:
 			opcion14();
 			break;
 			case 15:
 			opcion15();
+			break;
+			case 16:
 			break;
 			case 16:
 			opcion16();
