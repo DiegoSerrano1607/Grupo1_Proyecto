@@ -3,8 +3,8 @@
 #include <iostream>
 
 #include "suma resta y division.cpp"
-#include "Numeros par o impar.cpp"
-#include "conversión de kilometros.cpp
+#include "numeros par o impar.cpp"
+#include "conversión de kilometros.cpp"
 #include "palabra palindrom.cpp"
 #include "conversiones(1000).cpp"
 #include "DecimALetras.cpp"
