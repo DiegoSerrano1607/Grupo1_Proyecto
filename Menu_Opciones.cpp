@@ -8,7 +8,6 @@
 #include "conversion de kilometros.cpp"
 #include "palabra palindrom.cpp"
 #include "conversiones (1000).cpp"
-#include "DecimALetras.cpp"
 #include "conversiones de numeros a letras.cpp"
 #include "DecimALetras.cpp" 
 #include "TablaM.cpp"
@@ -102,19 +101,10 @@ int main(){
 			break;
 			case 14:
 			break;
-			case 13:
-			opcion13();
-			break;
-			case 14:
-			opcion14();
-			break;
 			case 15:
 			opcion15();
 			break;
 			case 16:
-			break;
-			case 16:
-			opcion16();
 			break;
 			case 17:
 			opcion17();
