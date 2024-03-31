@@ -101,17 +101,10 @@ int main(){
 			opcion13();
 			break;
 			case 14:
-			break;
-			case 13:
-			opcion13();
-			break;
-			case 14:
 			opcion14();
 			break;
 			case 15:
 			opcion15();
-			break;
-			case 16:
 			break;
 			case 16:
 			opcion16();
