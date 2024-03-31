@@ -1,4 +1,4 @@
-//MENU DE OPCIONES//
+//----------- MENU DE OPCIONES -----------//
 //Trabajo realizado por Luis Ajim, Yessica Jimenez y Diego Serrano//
 #include <iostream>
 
