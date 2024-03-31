@@ -8,6 +8,7 @@
 #include "palabra palindrom.cpp"
 #include "conversiones (1000).cpp"
 #include "conversiones de numeros a letras.cpp"
+#include "DecimALetras.cpp" 
 #include "TablaM.cpp"
 #include "TablasMulti.cpp"
 #include "MultiplicacionManual.cpp"
