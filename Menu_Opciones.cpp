@@ -4,10 +4,10 @@
 
 #include "suma resta y division.cpp"
 #include "numeros par o impar.cpp"
-#include "conversión de kilometros.cpp"
+#include "conversion de kilometros.cpp"
 #include "palabra palindrom.cpp"
-#include "conversiones(1000).cpp"
-#include "DecimALetras.cpp"
+#include "conversiones (1000).cpp"
+#include "conversiones de numeros a letras.cpp"
 #include "TablaM.cpp"
 #include "TablasMulti.cpp"
 #include "MultiplicacionManual.cpp"
