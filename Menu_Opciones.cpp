@@ -67,9 +67,9 @@ int main(){
 			case 5:
 			opcion5();
 			break;
-			/*case 6:
+			case 6:
 			opcion6();
-			break;*/
+			break;
 			case 7: 
 			opcion7();
 			break;
